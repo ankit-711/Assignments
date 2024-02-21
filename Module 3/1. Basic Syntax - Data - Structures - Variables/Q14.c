@@ -1,0 +1,15 @@
+#include<stdio.h>
+
+int main()
+{
+  int n;
+  
+  printf("Enter number: ");
+  scanf("%d",&n);
+
+  printf("The ascii value of given number is %c",n);
+
+
+
+	return 0;
+}
