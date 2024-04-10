@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    font-family: cursive;
+}
+p{
+    color: darkblue;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+span{
+    font-weight: bolder;
+}
+a{
+    font-size: 35px;
+    color: black;
+}
